@@ -1,0 +1,8 @@
+Cython
+numpy
+pandas
+scikit-learn
+scikit-learn --only-binary :all:
+scipy
+xgboost
+streamlit
